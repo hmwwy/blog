@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://127.0.0.1
+url: https://hmwwy.github.io/blog/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
