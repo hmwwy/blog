@@ -1,4 +1,4 @@
-# Hexo Configuration
+﻿# Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
@@ -8,7 +8,7 @@ subtitle: '静心'
 description: 'Operation Blog'
 keywords:
 author: 梦凡尘
-language: en
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
